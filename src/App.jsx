@@ -10,32 +10,32 @@ function App() {
     {
       id: 1,
       title: 'Home',
-      describe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ea distinctio alias? Eveniet ab enim aperiam laudantium cum, tenetur in fugiat consectetur vel magnam fuga expedita beatae sapiente culpa odio? Tenetur sapiente laudantium in at iure culpa minima illum cum.',
+      describe: "Our homepage features a user-friendly layout with key elements: an 'Extension Activation' button for quick access to activate the extension, a 'Previous Analysis' section enabling users to review their past activities, and a 'Documentation' button for easy access to comprehensive user guidance and instructions. It's a seamless experience to help users engage with our services effectively.",
       image: "https://i.ibb.co/M1Gvdw5/Screenshot-20221217-131511.png"
     },
     {
       id: 2,
       title: 'Feature',
-      describe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ea distinctio alias? Eveniet ab enim aperiam laudantium cum, tenetur in fugiat consectetur vel magnam fuga expedita beatae sapiente culpa odio? Tenetur sapiente laudantium in at iure culpa minima illum cum.',
+      describe: 'Our Chrome extension offers a comprehensive suite of features, including real-time code analysis to identify and rectify issues, a user-friendly rating system for evaluating code quality, and automatic code optimization to enhance performance and efficiency. Elevate your coding experience and productivity with our all-in-one solution.',
       image: "https://i.ibb.co/M1Gvdw5/Screenshot-20221217-131511.png"
     },
     {
       id: 3,
       title: 'Results',
-      describe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ea distinctio alias? Eveniet ab enim aperiam laudantium cum, tenetur in fugiat consectetur vel magnam fuga expedita beatae sapiente culpa odio? Tenetur sapiente laudantium in at iure culpa minima illum cum.',
-      image: "https://i.ibb.co/M1Gvdw5/Screenshot-20221217-131511.png"
+      describe: 'Our Chrome extension integrates seamlessly with the powerful OpenAI API to provide a holistic coding experience. It offers real-time code analysis with insightful ratings, constructive suggestions for improvement, and automatic code optimization to enhance performance. Elevate your coding skills and productivity with our extension, which empowers you with detailed feedback and efficient code enhancement.',
+      image: "https://i.ibb.co/frz4Mx9/Screenshot-2023-11-05-110427.png"
     },
     {
       id: 4,
       title: 'Parameters',
-      describe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ea distinctio alias? Eveniet ab enim aperiam laudantium cum, tenetur in fugiat consectetur vel magnam fuga expedita beatae sapiente culpa odio? Tenetur sapiente laudantium in at iure culpa minima illum cum.',
+      describe: "We assess your code on multiple fronts, including indentation, algorithm efficiency, code comments, and code readability. Our system assigns insightful ratings that take into account these essential criteria, allowing you to not only identify mistakes but also receive constructive feedback on how to improve your code's structure, efficiency, and overall quality",
       image: "https://i.ibb.co/M1Gvdw5/Screenshot-20221217-131511.png"
     },
     {
       id: 5,
       title: 'Improved Code',
-      describe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ea distinctio alias? Eveniet ab enim aperiam laudantium cum, tenetur in fugiat consectetur vel magnam fuga expedita beatae sapiente culpa odio? Tenetur sapiente laudantium in at iure culpa minima illum cum.',
-      image: "https://i.ibb.co/M1Gvdw5/Screenshot-20221217-131511.png"
+      describe: 'Our Chrome extension is designed to be your coding companion, harnessing the capabilities of the OpenAI API to provide thorough code analysis. It not only offers insightful ratings and suggestions for improvement but also delivers optimized code based on the deep knowledge it possesses.',
+      image: "https://i.ibb.co/frz4Mx9/Screenshot-2023-11-05-110427.png"
     },
 
   ]
