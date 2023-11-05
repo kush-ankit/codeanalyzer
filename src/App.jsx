@@ -56,9 +56,3 @@ function App() {
 }
 
 export default App
-
-
-
-https://i.ibb.co/0hLn1k2/IMG-20231105-WA0002.jpg
-https://i.ibb.co/ZcYy7k8/IMG-20231105-WA0003.jpg
-https://i.ibb.co/YW0xp7G/IMG-20231105-WA0005.jpg
