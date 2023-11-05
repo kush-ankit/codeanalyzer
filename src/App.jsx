@@ -17,7 +17,7 @@ function App() {
       id: 2,
       title: 'Feature',
       describe: 'Our Chrome extension offers a comprehensive suite of features, including real-time code analysis to identify and rectify issues, a user-friendly rating system for evaluating code quality, and automatic code optimization to enhance performance and efficiency. Elevate your coding experience and productivity with our all-in-one solution.',
-      image: "https://i.ibb.co/0hLn1k2/IMG-20231105-WA0002.jpg"
+      image: "https://i.ibb.co/hdn1zRg/IMG-20231105-WA0006.jpg"
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ function App() {
       id: 4,
       title: 'Parameters',
       describe: "We assess your code on multiple fronts, including indentation, algorithm efficiency, code comments, and code readability. Our system assigns insightful ratings that take into account these essential criteria, allowing you to not only identify mistakes but also receive constructive feedback on how to improve your code's structure, efficiency, and overall quality",
-      image: "https://i.ibb.co/YW0xp7G/IMG-20231105-WA0005.jpg"
+      image: "https://i.ibb.co/0hLn1k2/IMG-20231105-WA0002.jpg"
     },
     {
       id: 5,
