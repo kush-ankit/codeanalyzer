@@ -11,7 +11,7 @@ function App() {
       id: 1,
       title: 'Home',
       describe: "Our homepage features a user-friendly layout with key elements: an 'Extension Activation' button for quick access to activate the extension, a 'Previous Analysis' section enabling users to review their past activities, and a 'Documentation' button for easy access to comprehensive user guidance and instructions. It's a seamless experience to help users engage with our services effectively.",
-      image: "https://i.ibb.co/M1Gvdw5/Screenshot-20221217-131511.png"
+      image: "https://i.ibb.co/DC0QMQD/Whats-App-Image-2023-11-05-at-11-44-52-723c60a1.jpg"
     },
     {
       id: 2,
